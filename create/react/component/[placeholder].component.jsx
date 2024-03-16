@@ -1,5 +1,5 @@
 import React from "react";
 
-export default function Placeholder() {
-   return <div>placeholder component</div>;
+export default function PlaceHolder() {
+   return <div>PlaceHolder component</div>;
 }
